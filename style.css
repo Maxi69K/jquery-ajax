@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrap {
+    width: 500px;
+    height: 500px;
+    margin: 100px auto 0;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.9);
+}
+
+.top {
+    width: 500px;
+    height: 250px;
+    background-color: skyblue;
+}
+
+.bottom {
+    width: 500px;
+    height: 250px;
+    background-color: aqua;
+}
